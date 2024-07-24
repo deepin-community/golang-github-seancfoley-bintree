@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-seancfoley-bintree (1.2.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Team Upload.
+    + Source-only upload for testing migration.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nilesh Patra <nilesh@debian.org>  Fri, 03 Nov 2023 01:04:40 +0530
+
+golang-github-seancfoley-bintree (1.2.1-1) unstable; urgency=medium
+
+  [ M Hickford, Nilesh Patra ]
+  * Initial release (Closes: #1050308)
+
+ -- M Hickford <mirth.hickford@gmail.com>  Wed, 01 Nov 2023 23:08:47 +0530
