@@ -1,1 +1,2 @@
-# template-repository
+# bintree
+Binary trees and tries
